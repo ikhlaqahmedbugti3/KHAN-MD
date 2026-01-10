@@ -1,6 +1,6 @@
 {
   "name": "KHAN-MD",
-  "description": "Javascript WhatsApp bot made by Jᴀᴡᴀᴅ TᴇᴄʜX",
+  "description": "Javascript WhatsApp bot made by Ikhlaq Ahmed",
   "logo": "https://files.catbox.moe/neni8p.jpg",
   "keywords": ["KHAN-MD"],
   "success_url": "/",
@@ -28,7 +28,7 @@
     "MODE": {
       "description": "select your bot work type public-private-inbox-group.",
       "required": false,
-      "value": "public"
+      "value": "private"
     },
 
     "ALWAYS_ONLINE": {
@@ -125,7 +125,7 @@
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "923427582273"
+      "value": "923334104708"
     }, 
 
     "BOT_NAME": {

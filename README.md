@@ -78,7 +78,7 @@
     <p style="color: #ff00ff; font-size: 16px;">📦 Next deploy using your preferred method ( Heroku, Railway, etc.)</p>
     <ul style="color: #ffffff; line-height: 1.6;">
       <li>📁 Clone or Fork the repository</li>
-      <li>⚙️ Add your <code>settings</code> variables</li>
+      <li>⚙️ Add your <code>setting</code> variables</li>
       <li>🚀 Deploy using platform buttons or manual setup</li>
     </ul>
   </div>
@@ -95,7 +95,7 @@
 
 ### 🌊 GET SESSION ID
 <p align="center">
-  <a href="https://khanmd-pair.onrender.com/">
+  <a href="https://jawadtechx.vercel.app/pair">
     <img src="https://img.shields.io/badge/💫_PAIR_GENRATER-4F46E5?style=for-the-badge&logo=codeberg&logoColor=white&labelColor=1e1b4b" alt="Long Session"/>
   </a>
 </p>
@@ -142,7 +142,7 @@
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://jawadtech-vps.onrender.com" target="_blank">
+      <a href="https://jawadtechx.vercel.app" target="_blank">
         <img alt="VPS Deploy" src="https://img.shields.io/badge/VPS_DEPLOY-Free_Unlimited-8A2BE2?style=for-the-badge&logo=serverless&logoColor=white&labelColor=0F0529"/>
       </a>
     </td>
